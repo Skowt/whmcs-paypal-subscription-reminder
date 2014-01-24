@@ -5,7 +5,7 @@
 2. Features
 3. Screenshots
 4. Download Links
-5. Changelog
+5. Installation
 6. Report Bugs
 
 ## 1. Description
@@ -49,10 +49,12 @@ v1.2 - [Download](https://bitbucket.org/Skowt/whmcs-paypal-subscription-reminder
 
 *Downloads are at own risk. I don't take any responsibility for any problems as a result of this plugin. Always take regular backups.*
 
-## 5. Changelog
+## 5. Installation
 -----------------------------
 
-Nothing to report yet. Initial Public Release.
+Login to WHMCS Admin area, Setup >> Addon Modules, then activate "Paypal Subscription Reminder". 
+
+Once you activate the addon module, click 'Configure' and setup the system according to your specifications. 
 
 ## 6. Report Bugs.
 -----------------------------
