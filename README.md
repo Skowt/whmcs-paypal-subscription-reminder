@@ -1,21 +1,12 @@
-## Contents
-=============================
+# Contents
+-----------------------------
 
-<<<<<<< HEAD
 1. Description
 2. Features
 3. Screenshots
 4. Download Links
 5. Changelog
 6. Report Bugs
-=======
-+ 1. Description
-+ 2. Features
-+ 3. Screenshots
-+ 4. Download Links
-+ 5. Changelog
-+ 6. Report Bugs
->>>>>>> origin/master
 
 ## 1. Description
 -----------------------------
@@ -33,19 +24,11 @@ and then come looking to the hosting company for answers.
 
 A short look at the key features of the 'Paypal Subscription Reminder' addon.
 
-<<<<<<< HEAD
 1. Ability to enable or disable sending of reminders.
 2. Customizable Ticket Subject, Ticket Messsage, Ticket Priority and Ticket Status,
 3. Able to select Department to create ticket in.
 4. Select which Admin the ticket should be from.
 5. All actions logged and reviewable in the 'Activity Log' on WHMCS.
-=======
-+ 1. Ability to enable or disable sending of reminders.
-+ 2. Customizable Ticket Subject, Ticket Messsage, Ticket Priority and Ticket Status,
-+ 3. Able to select Department to create ticket in.
-+ 4. Select which Admin the ticket should be from.
-+ 5. All actions logged and reviewable in the 'Activity Log' on WHMCS.
->>>>>>> origin/master
 
 ## 3. Screenshots
 -----------------------------
@@ -54,13 +37,8 @@ A short look at the key features of the 'Paypal Subscription Reminder' addon.
 ![Activity Log](http://i.imgur.com/FyPpW9q.png)
 
 Direct links if you want to enlarge:
-<<<<<<< HEAD
 > [Addon Config](http://i.imgur.com/TXx1Uo8.png) | 
 > [Activity Log](http://i.imgur.com/FyPpW9q.png)
-=======
-[Addon Config](http://i.imgur.com/TXx1Uo8.png)
-[Activity Log](http://i.imgur.com/FyPpW9q.png)
->>>>>>> origin/master
 
 ## 4. Download Links
 -----------------------------
